@@ -8,15 +8,13 @@ but the given rating is unexpectedly low. This discrepancy suggests potential is
 **Methodology**
 
 Gather a comprehensive dataset of airline customer reviews, including text content and associated ratings (e.g., 1-5 stars).
-Clean and preprocess the text data:
-Handle missing values
-Sentiment Analysis Model Training
-Optimize hyperparameters
+Clean and preprocess the text data.
+Sentiment Analysis Model Training.
+Optimize hyperparameters.
 Use the trained sentiment analysis model to predict the sentiment polarity of each review in the dataset.
 Develop a model to quantify the discrepancy between predicted sentiment and the actual rating.
-Define thresholds for real rating-sentiment model rating discrepancy
-Evaluate the performance of both the sentiment analysis model and the discrepancy model using appropriate metrics
-Technologies
+Define thresholds for real rating-sentiment model rating discrepancy.
+Evaluate the performance of both the sentiment analysis model and the discrepancy model using appropriate metrics.
 
 **Expected Outcomes**
 
